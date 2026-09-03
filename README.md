@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_DayZ_Assist_9.2.0-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/OtokageTunnel/DayZAssistAi/releases/tag/DayZ)
+[![Download Package](https://img.shields.io/badge/🔗DOWNLOAD_DayZ_Assist_9.2.0-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/OtokageTunnel/DayZAssistAi/releases/tag/DayZ)
 
 <br>
 
